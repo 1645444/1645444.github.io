@@ -1,6 +1,6 @@
-大提琴作品演奏者首推***Janos Starker***，钢琴作品演奏者首推***Gleen Gould***
+<div align="center"><span style="color:red">Johann Sebastian Bach</span></div>
 
-###大提琴无伴奏组曲(Suites for solo Cello, BWV 1007-1012)
+###[大提琴无伴奏组曲](bwv_1007_1012.html) (Suites for solo Cello, BWV 1007-1012)
 沃尔夫冈·波伊彻 (Wolfgang Boettcher)<br>
 亚诺什·斯塔克 (Starker Janos)<br>
 让·古恩·奎拉斯 (Jean-Guihen Queyras)<br>
@@ -12,10 +12,14 @@
 安纳·比尔斯玛 (Anner Bylsma)<br>
 
 
-###哥德堡变奏曲(Goldberg-Variationen, BWV 988)
+###[哥德堡变奏曲](bwv_988.html) (Goldberg-Variationen, BWV 988)
 格伦·古尔德 (Gleen Gould)<br>
+安德烈·加夫里洛夫 (Andrei Gavrilov)<br>
 
-###平均律键盘曲集(Das Wohltemperierte Klavier, BWV 846–893)
+###[平均律键盘曲集](bwv_846_893.html) (Das Wohltemperierte Klavier, BWV 846–893)
 格伦·古尔德 (Gleen Gould)<br>
 艾德温·费雪 (Edwin Fischer)<br>
 斯维亚托斯拉夫·里赫特 (俄: Святослав Теофилович Рихтер, 英: Sviatoslav Teofilovich Richter)<br>
+
+###其他说明
+大提琴作品演奏者首推***Janos Starker***，钢琴作品演奏者首推***Gleen Gould***
