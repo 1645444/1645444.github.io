@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Marck+Script&display=swap">
 <div style="text-align: center;"><font size="30" face="Marck Script">Johann Sebastian Bach</font></div>
 
-###[大提琴无伴奏组曲](bwv_1007_1012.html) (Suites for solo Cello, BWV 1007-1012)
+###[大提琴无伴奏组曲](https://listenwhat.top/Johann%20Sebastian%20Bach/bwv_1007_1012.html) (Suites for solo Cello, BWV 1007-1012)
 <font color="red">
 亚诺什·斯塔克 (Starker Janos)<br />
 马友友 (Yo-Yo Ma)<br />
@@ -17,7 +17,7 @@
 </font>
 
 
-###[哥德堡变奏曲](bwv_988.html) (Goldberg-Variationen, BWV 988)
+###[哥德堡变奏曲](https://listenwhat.top/Johann%20Sebastian%20Bach/bwv_988.html) (Goldberg-Variationen, BWV 988)
 <font color="red">
 格伦·古尔德 (Gleen Gould)<br />
 </font>
@@ -26,7 +26,7 @@
 </font>
 
 
-###[平均律键盘曲集](bwv_846_893.html) (Das Wohltemperierte Klavier, BWV 846–893)
+###[平均律键盘曲集](https://listenwhat.top/Johann%20Sebastian%20Bach/bwv_846_893.html) (Das Wohltemperierte Klavier, BWV 846–893)
 <font color="red">
 格伦·古尔德 (Gleen Gould)<br />
 艾德温·费雪 (Edwin Fischer)<br />
