@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+
+body {
+    background-color: #353742;
+}
+.vscode-light {
+    color: #A1C0D1;
+}
+h1, h2, h3, h4 h5 {
+    color: #A3C9A7;
+}
+a:link, a:visited {
+    text-decoration: none;
+    color: #A3C9A7;
+}
+::selection {
+    background:#404040; 
+    color:#ffffff;
+}
+::-moz-selection {
+    background:#404040; 
+    color:#ffffff;
+}
+::-webkit-selection {
+    background:#404040; 
+    color:#ffffff;
+}
+.composer {
+    text-align: center;
+    font-family: Marck Script;
+    font-size: 50px;
+}
